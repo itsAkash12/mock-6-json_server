@@ -1,6 +1,6 @@
 {
   "users": [
-    {"id":1, "username": "akash","email": "akashviratsingh018@gmail.com", "password":"akashsingh"}
+    {"id":1, "fullname": "akash","email": "akashviratsingh018@gmail.com", "password":"akashsingh"}
   ],
   "recipes":[
     {
